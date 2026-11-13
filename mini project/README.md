@@ -41,3 +41,4 @@ python3 "mini project/weather_walk_predictor.py"
 
 - **Conditions**: Temperature = `22°C`, Chance of Rain = `10%`
 - **Model Output**: `1 (Go Outside for a Walk)` with 100% confidence.
+
