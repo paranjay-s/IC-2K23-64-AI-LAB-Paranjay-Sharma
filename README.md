@@ -33,6 +33,17 @@ This repository contains Python solutions for classic artificial intelligence pr
 * **The Solution:** Uses a `DecisionTreeClassifier` from the `scikit-learn` library. It trains on a simulated dataset of past days utilizing two main features ("Temperature" and "Chance of Rain") to predict a final decision (1 = Go Outside, 0 = Stay Inside).
 * **How to test:** Run `weather_walk_predictor.py` inside the `mini project` folder to see the tree predict an outcome based on sample weather conditions.
 
+## 6. AI Lab Test 2: Emergency Evacuation Planner (`lab test 2/` folder)
+
+* **Assigned Problem:** Set 3 (Emergency Evacuation Planner - Roll No 60-65, Roll No 64).
+* **The Scope:** Formulates building rooms, corridors, staircases, and fire exits as an interconnected graph with dynamic constraints (blocked connections, smoke/fire hazards) and risk minimization.
+* **Implementations Provided:**
+  * `evacuation_planner.pl`: GNU-Prolog / SWI-Prolog ISO standard source code with automated self-tests.
+  * `evacuation_planner_turbo.pro`: Authentic Borland Turbo Prolog 2.0 source code (`DOMAINS`, `PREDICATES`, `CLAUSES`) for university lab DOSBox.
+  * `evacuation_planner.py`: Complete Python equivalent simulating Prolog reasoning, risk optimization, and test scenarios.
+  * `README.md`: Complete evaluation criteria report, 3 verified test scenarios, and viva modification guide.
+* **How to test:** Run `python3 "lab test 2/evacuation_planner.py"` or `echo "run_all_tests, halt." | gprolog --consult-file "lab test 2/evacuation_planner.pl"`.
+
 ## How to Run the Code
 
 * You will need Python 3 installed on your computer.
