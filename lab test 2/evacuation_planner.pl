@@ -211,3 +211,11 @@ run_all_tests :-
     test_case_2, nl,
     test_case_3, nl,
     write('All 3 test scenarios completed successfully.'), nl.
+
+/* Main entry point for Online Compilers (OnlineGDB, TutorialsPoint, etc.) */
+main :-
+    run_all_tests,
+    halt.
+
+:- initialization(main).
+
