@@ -2,6 +2,9 @@
 
 This repository contains Python solutions for classic artificial intelligence problems, university coursework, and machine learning models. The code is written to be clean, easy to read, and easy to explain for lab assessments. 
 
+
+***Youtube Explanation Video Link for Lab Test 2*** : https://youtu.be/pcPHGxJMemI
+
 ## 1. Water Jug Problem (water_jug.py)
 
 * **The Problem:** You have two empty jugs of different sizes. You need to measure out a specific amount of water using an endless water supply.
