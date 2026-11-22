@@ -1,5 +1,7 @@
 # AI Lab Test 2: Emergency Evacuation Planner (Set 3)
 
+***Youtube Explanation Video Link :*** https://youtu.be/pcPHGxJMemI
+
 **Student Name:** Paranjay Sharma  
 **Roll Number:** 64 *(Assigned Set: Set 3 for Roll No. 60–65)*  
 **Degree / Semester:** MCA 7th Semester  
